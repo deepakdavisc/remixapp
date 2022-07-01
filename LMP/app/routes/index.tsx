@@ -23,7 +23,7 @@ export default function Index() {
         </li>
         <li>
           <a target="_blank" href="https://remix.run/docs" rel="noreferrer">
-            Remix Docs
+            Remix Docs.......
           </a>
         </li>
       </ul>
